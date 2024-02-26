@@ -4,6 +4,10 @@
 
 使用Segment Any Thing模型与SLiMe模型，添加自己编写的匹配算法：动态规划、拓扑排序等。为数据集打伪标签。
 
+## [2023年全国大学生机械工程创新创意大赛](https://github.com/Weizhi-Zhao/the-logistics-challenge)
+
+主要负责人，主要贡献包括速度规划、物体识别、机械臂设计、电路设计等。获得**国家级一等奖、湖北省一等奖**。
+
 ## [大创2024](https://github.com/Weizhi-Zhao/dachuang-2024)
 
 使用任意文本作为风格词，对图像进行风格迁移。
@@ -35,7 +39,6 @@ ROBOCON四足竞赛代码。实现了连续变化步态，获得**国家级三�
 ## ROBOCON2022夏令营
 
 华中科技大学Robocon2022夏令营。获得**团队冠军、最佳技术奖**。
-
 - [上位机](https://github.com/Weizhi-Zhao/Robocon_Summer_Camp_Controler)
 - [底盘](https://github.com/Weizhi-Zhao/robocon-summer-camp-2022)
 - [上层](https://github.com/Weizhi-Zhao/robocon-summer-camp-stm32f405)
